@@ -1,3 +1,5 @@
+<meta name="robots" content="noindex">
+
 # Semantic_Pathway_Generator
 
 To run the Dash application which powers the website, download this Github repository and then execute
